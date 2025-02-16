@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Ada programming: accessing an array element outside its defined bounds.  The `bug.ada` file contains the erroneous code, which leads to a `CONSTRAINT_ERROR` exception at runtime. The `bugSolution.ada` file provides the corrected version with proper bounds checking.
